@@ -1,4 +1,3 @@
-
 #this will override if siteconfig var is deleted from main htaccess file
 SetEnv siteconfig "D:/server/data/localweb/phppro/imp/siteconfig.php"
 SetEnv siteindex "D:/server/data/localweb/phppro/imp/siteindex.php"
